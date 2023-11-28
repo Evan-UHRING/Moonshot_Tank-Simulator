@@ -1,5 +1,6 @@
 # Functionnal Specification
 
+!!!! NOT FINISHED !!!!
 
 <summary>
     <h2 id="table of content">Table of content</h2>
