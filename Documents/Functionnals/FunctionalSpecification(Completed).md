@@ -1,4 +1,4 @@
-# Functionnal Specification
+# Functional Specification
 
 !!!! NOT FINISHED !!!!
 
@@ -16,7 +16,7 @@
             <li><a href="#Scope">Scope</a></li>
         </ul>  
     </ul>
-    <li><a href="#B_Functionnal-Requirement">B) Functionnalrequirement</a></li>
+    <li><a href="#B_Functional-Requirement">B) Functional requirement</a></li>
     <ul>
         <li><a href="#1_Simulation">1) Simulation</a></li>
         <ul>
@@ -44,6 +44,7 @@
 |---|---|
 | "Simulator" | Software that recreate the reality |
 | "Tanks" | Armored vehicules, usualy mounted with a cannon and have tracks other than wheels |
+| "Engine" | An engine, for game developping, provides the physic, audio, visuals and game management for a game |
 |  |  |
 |  |  |
 |  |  |
@@ -73,27 +74,26 @@ The goal of this project is to make a tank simulator. The principle of it is to 
 
 
 <h4 id="Scope">Scope</h4>
-This is for the main goal, other goals will be clarified in an other document, for futur improvement.
 
 | In scope |
 |---|
-| Have a working vehicle with basic mechanics and systems |
-| Have a working basic physic |
-|  |
-|  |
+| Have a complete simulator |
+| Most of the different parameters have been used, or all of them |
+| Mutiple vehicles have been made, including the different type of vehicles (light, heavy, ...) |
+| Graphics have to be advanced |
 
 | Out of scope |
 |---|
 | Use classified documents |
-|  |
-|  |
+| Do not work like a simulator |
+| Use complete pre-made models/functions |
 |  |
 
 
 
 
 <summary>
-    <h2 id="B_Functionnal-Requirement">B) Functionnal Requirement</h2>
+    <h2 id="B_Functional-Requirement">B) Functional Requirement</h2>
 </summary>
 <h3 id="1_Simulation">1) Simulation</h3>
 
