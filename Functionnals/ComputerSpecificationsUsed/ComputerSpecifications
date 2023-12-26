@@ -1,0 +1,17 @@
+<h1>Computer specifications</h1>
+
+<ul>
+    <li>Main components</li>
+    <ul>
+        <li>CPU : Ryzen 7 3800X</li>
+        <li>GPU : RTX 3070</li>
+        <li>RAM : 32GB 3000MHz</li>
+        <li>Main storage : SSD NVMe 1TB, 3000MB/s reading, 2500MB/s writing</li>
+    </ul>
+    <li>Other components</li>
+    <ul>
+        <li>Motherboard : Rog Strix B550-A gaming</li>
+        <li>Other storages: SSD 500GB, SDD 1TB</li>
+        <li>Power supply : 750W 80+bronze</li>
+    </ul>
+</ul>
