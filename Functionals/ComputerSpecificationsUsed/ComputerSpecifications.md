@@ -15,3 +15,5 @@
         <li>Power supply : 750W 80+bronze</li>
     </ul>
 </ul>
+
+Read the [Functional Specifications](../FunctionalSpecifications.md)
