@@ -2,7 +2,7 @@
 
 ## Description
 
-Here is the details about the canon implemented in the the simulator. You can see which canon is used, what are its specifications and others. For details about the project, read the [Functional Specifications](../FunctionalSpecifications.md).
+Here is the details about the canon implemented in the the simulator. You can see  what are its specifications and others. For details about the project, read the [Functional Specifications](../FunctionalSpecifications.md).
 
 ## Canon description
 
@@ -53,9 +53,12 @@ Here is the details about the canon implemented in the the simulator. You can se
 
 | Ammunition | Type | Material | Projectile weight | Projectile length | Total length | Velocity | Penetration |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3VBM23/3BM60 "Svinets-2" <a href="#3bm60">*</a> | APFSDS<a href="#rpm">*</a> | Tungsten alloy | 8.4 kg | 735 mm | 740 mm | 1660 m/s | 700 mm @ 2000 m, 0° in homogeneous steel <br> 300 mm @ 2000 m, 60° in homogeneous steel
+| 3VBM23/3BM60 "Svinets-2" <a href="#3bm60">*</a> | APFSDS<a href="#apfsds">*</a> | Tungsten alloy | 8.4 kg | 735 mm | 740 mm | 1660 m/s | 700 mm @ 2000 m, 0° in homogeneous steel <br> 300 mm @ 2000 m, 60° in homogeneous steel |
+| 3VBK16/3BK18M <a href="#3bk18m">*</a> | HEAT-FS <a href="#heat">*</a> | Hollow charge, copper lining | 19.02 kg | 680 mm | 680 mm | 905 m/s | 500 mm @ 2000 m, 0° in RHA<a href="#rha">*</a><br> 260 mm @ 2000 m, 60° in RHA |
 
-###### Source : [2A46M Documentation](#documentation-source) , [weaponsystems.net](https://weaponsystems.net/system/1509-125mm%202A46) , [bastion-karpenko.ru](https://bastion-karpenko.ru/?s=3bm60) , [https://fr.wiki5.ru](https://fr.wiki5.ru/wiki/125_mm_smoothbore_ammunition#3VBM22/3BM59_(3BM59_"Svinets-1"))
+Information were difficult to find for the 3BK18M, it needs for research.
+
+###### Source : [2A46M Documentation](#documentation-source) , [weaponsystems.net](https://weaponsystems.net/system/1509-125mm%202A46) , [bastion-karpenko.ru](https://bastion-karpenko.ru/?s=3bm60) , [fr.wiki5.ru](https://fr.wiki5.ru/wiki/125_mm_smoothbore_ammunition#3VBM22/3BM59_(3BM59_"Svinets-1"))
 
 <br>
 
@@ -83,6 +86,8 @@ Original document from the Belarusian National University of Technology (BNUT) l
 | <h4 id="EFC">EFC :</h4> | Equivalent Full Charge, used to tell how many times the canon can be used at full power. |
 | <h4 id="rpm">rpm :</h4> | Round Per Minute, how many rounds can be shot in one minute. |
 | <h4 id="apfsds">APFSDS :</h4> | Armour-Piercing Fin-Stabilized Discarding Sabot |
+| <h4 id="heat">HEAT-FS :</h4> | High Explosive Anti-Tank Fin-Stabilized |
+| <h4 id="rha">RHA :</h4> | Rolled Homogeneous Armor |
 
 <br>
 
@@ -109,3 +114,12 @@ Original document from the Belarusian National University of Technology (BNUT) l
 <img src="Pictures/3BM60_3.jpg" alt="3BM60 3" width="50%" >
 
 ###### Source : [bastion-karpenko.ru](https://bastion-karpenko.ru/?s=3bm60) , [below-the-turret-ring.blogspot.com](https://below-the-turret-ring.blogspot.com/2016/10/russia-is-mass-producing-improved.html)
+
+<br>
+
+<h4 id="3bk18m">3VBK16 / 3BK18M</h4>
+<img src="Pictures/3BK18M_1.jpg" alt="3BK18M 1" width="40%">
+<img src="Pictures/3BK18M_2.jpg" alt="3BK18M 2" width="70%">
+
+
+###### Source : [dzen.ru](https://dzen.ru/a/XQzXJrs2KgCv57qz)
