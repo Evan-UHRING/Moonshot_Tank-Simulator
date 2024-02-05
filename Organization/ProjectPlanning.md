@@ -2,7 +2,7 @@
 
 This is how the different steps of advancement in the project will be organized :
 
-| Steps | What exactly | Dates |
+| Steps | Description | Dates |
 | --- | --- | --- |
 | Documents | Functional specification <br> Canon details <br> Organization | Start : 12/01/2023 <br> End : By the end of February 2024 |
 | Canon model | Make the 3D model of the chosen canon using Blender | Start : 2/03/2024 <br> End : By the end of May 2024 |

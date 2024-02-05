@@ -12,4 +12,5 @@ To assure the proper advancement of the project, a minimum of 14 hours per week 
 | Afternoon | ❌ | ❌ | ❌ | ❌ | ❌ | 13h30-19h30 | 13h30-19h30 |
 |  Evening  | ❌ | ❌ | ❌ | 17h30-19h30 | Free | Free | Free |
 
-Free moments can be used to work more on the project.
+Free moments can be used to work more on the project. <br>
+Moments marked by "❌" are unavailable to work on the project.

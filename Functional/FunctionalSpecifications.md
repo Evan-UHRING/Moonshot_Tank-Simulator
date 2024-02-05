@@ -181,7 +181,7 @@ In the modern era, it is common that a tank has a firing control system. This sy
 <h4 id="Sights">- Sights</h4>
 There are three different types of sights that exist : day sight, night-vision sight and thermal sight. Today, thermal sight is more used over night-vision sight, because of its versatility of capable of being used as much at day as at night. But thermal sights are displayed on a screen, while the day sights are not always displayed on a screen.
 <br><br>
-<i>Example of day and thermal sight (day sight from a Leopard2 at the left, thermal sight from an M1A1(FEP) at the right) :</i><br>
+<i>Example of day and thermal sight (day sight from a Leopard2 on the first image, thermal sight from an M1A1(FEP) on the second image) :</i><br>
 <img src="Pictures/leopard2_day-sight.png" width="30%">
 <img src="Pictures/abrams_thermal-sight.png" width="50%">
 <br><br>
@@ -199,7 +199,7 @@ In general, the selection of the ammunition that will be used is selected after 
 <h4 id="Protection_Systems">- Protection systems</h4>
 The most common system that is on most tanks is using smokes. Creating smoke screens gives the tanks something to hide behind and gives the opportunity to retreat. Smoke screens can be created by using smoke launchers are by a mechanism from the fume extractor on the back of the tank.
 <br><br>
-<i>Example of smoke screens done by a fume extractor (left), and by smoke launchers (right) :</i><br>
+<i>Example of smoke screens done by a fume extractor (first image), and by smoke launchers (second image) :</i><br>
 <img src="Pictures/fumeextractor.jpg" width="49%">
 <img src="Pictures/smokelauncher.jpg" width="49%">
 <br><br>
@@ -213,7 +213,7 @@ On most modern tanks, more advanced protection systems are installed on them whi
 <br><br>
 ERA and NERA are blocks that are added on the tanks. It is mostly very effective on chemical projectiles. 
 <br><br>
-<i>Example of ERA on the left (in red) and NERA on the right (in pink):</i><br>
+<i>Example of ERA on the first image (in red) and NERA on the second image (in pink):</i><br>
 <img src="Pictures/t64bv.jpg" width="49%">
 <img src="Pictures/leclerc-nera.jpg" width="43%">
 <br>
